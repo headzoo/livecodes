@@ -13,11 +13,10 @@ if (process.env.FIREBASE_CONFIG) {
 }
 
 export const firebaseConfig = selfHostedConfig || {
-  apiKey: 'AIzaSyB352dJ_NKCZ43G5kv9Lt-sb5nMXTJRONQ',
-  authDomain: 'livecodes-io.firebaseapp.com',
-  projectId: 'livecodes-io',
-  storageBucket: 'livecodes-io.appspot.com',
-  messagingSenderId: '756660932772',
-  appId: '1:756660932772:web:4cbbf58f809d81c2189631',
-  measurementId: 'G-C5WYBVEKF7',
+  apiKey: "AIzaSyC7BFjjlzsvkYL-Yo4rdMkMvIMEN_sxJbA",
+  authDomain: "discimg-e1b4c.firebaseapp.com",
+  projectId: "discimg-e1b4c",
+  storageBucket: "discimg-e1b4c.firebasestorage.app",
+  messagingSenderId: "754032537995",
+  appId: "1:754032537995:web:65bdba5e82c4afc5e1ff8e"
 };
